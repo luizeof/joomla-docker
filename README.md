@@ -1,2 +1,3 @@
 # joomla-docker
-Joomla Image
+
+Joomla Image for Docker
