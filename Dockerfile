@@ -1,4 +1,4 @@
-FROM joomla:7.2-apache
+FROM joomla:php7.2-apache
 
 LABEL maintainer="Luiz Eduardo Oliveira Fonseca <luizeof@gmail.com> (@luizeof)"
 
